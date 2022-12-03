@@ -4,3 +4,4 @@ hei!
 da
 .git add
 .git remove
+.git status
